@@ -1,0 +1,17 @@
+{ 
+    "markdown.math.enabled": true,
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html",
+        "css": "css"
+    },
+    "tailwindCSS.classAttributes": [
+        "className",
+        "ngClass",
+        "class:list",
+        "class"
+    ],
+    "tailwindCSS.codeLens": true,
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.hovers": true,
+    "css.lint.unknownAtRules": "ignore"
+}
